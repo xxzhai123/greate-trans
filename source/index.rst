@@ -7,17 +7,39 @@
 ========================================
 
 .. toctree::
-   :numbered:
-   :maxdepth: 2
-   :caption: 内容:
+   :maxdepth: 1
+   :caption: 前言:
 
    关于此项目 <about>
-   算法 <algrithom>
-   化学 <chem>
-   生物 <bio>
-   应用 <apps>
-   推荐资源平台 <plantforms>
+   资源平台推荐 <plantforms>
 
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+   :caption: 算法:
+
+   算法 <Algrithom/algrithom>
+
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+   :caption: 化学:
+
+   化学 <Chem/chem>
+
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+   :caption: 生物:
+
+   生物 <Bio/bio>
+
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+   :caption: 应用:
+
+   应用 <Apps/apps>
 
 Indices and tables
 ==================
