@@ -1,5 +1,5 @@
 # NLN
 
-NLN means natural legislates for natural.
+NLN means the nature legislates for the nature.
 
-Here AI legislates for natural too.
+Here, the AI legislates for the nature.
