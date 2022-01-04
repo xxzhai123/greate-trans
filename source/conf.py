@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'greate-trans'
+project = 'nln'
 copyright = '2022, seeyou'
 author = 'seeyou'
 
@@ -32,7 +32,6 @@ release = '0.1.0'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

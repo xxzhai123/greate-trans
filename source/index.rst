@@ -3,12 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to greate-trans's documentation!
+Welcome to nln's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+
+   About this project <about>
 
 Indices and tables
 ==================
@@ -17,11 +19,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   hello
-   goosd
-   quick
